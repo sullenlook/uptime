@@ -1,0 +1,11 @@
+UPTIME PLUGIN IN DEUTSCH
+
+Sag einfach "Betriebszeit", "Serverstatus" oder "Server" und Siri sagt Dir wie lange dein Server schon läuft.
+
+So installierst Du dieses Plugin: 
+
+# 1: Lade den "uptime" ordner in ~/SiriServerCore/plugins/ 
+
+# 2: Fügen Sie "uptime" in plugins.conf ein
+
+FERTIG
